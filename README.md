@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Two Pointers
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+## Hash Table
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
