@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
