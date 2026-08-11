@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Math
 |  |
 | ------- |
