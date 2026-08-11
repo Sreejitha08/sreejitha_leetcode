@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3731-find-missing-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
 |  |
@@ -45,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3731-find-missing-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Linked List
 |  |
 | ------- |
