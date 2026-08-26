@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0394-decode-string) |
 | [1927-sum-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Math
