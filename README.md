@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0171-excel-sheet-column-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0316-remove-duplicate-letters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0394-decode-string) |
 | [1927-sum-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1927-sum-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1927-sum-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
