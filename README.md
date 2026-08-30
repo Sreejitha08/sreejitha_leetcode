@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0706-design-hashmap) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
