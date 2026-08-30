@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0706-design-hashmap) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
 ## Manacher
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0463-island-perimeter) |
 ## Greedy
 |  |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
