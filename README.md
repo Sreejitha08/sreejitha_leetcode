@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
