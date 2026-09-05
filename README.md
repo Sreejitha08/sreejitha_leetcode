@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0706-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [1927-sum-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
