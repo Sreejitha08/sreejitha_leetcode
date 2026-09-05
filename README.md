@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
