@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3731-find-missing-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
