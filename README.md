@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0463-island-perimeter) |
+| [0835-image-overlap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0835-image-overlap) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
 |  |
