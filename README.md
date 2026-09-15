@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
+| [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 ## Manacher
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1927-sum-game) |
