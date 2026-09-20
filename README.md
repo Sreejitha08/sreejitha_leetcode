@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Math
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
