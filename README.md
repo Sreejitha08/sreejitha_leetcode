@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0763-partition-labels) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
