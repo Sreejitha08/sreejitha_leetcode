@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1854-maximum-population-year](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1854-maximum-population-year](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3903-smallest-stable-index-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 ## Game Theory
