@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0316-remove-duplicate-letters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0394-decode-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
