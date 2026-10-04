@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0316-remove-duplicate-letters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0763-partition-labels) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
