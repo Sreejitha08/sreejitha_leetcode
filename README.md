@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0835-image-overlap) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
