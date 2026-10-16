@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0835-image-overlap](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0031-next-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0763-partition-labels) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
 | [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
