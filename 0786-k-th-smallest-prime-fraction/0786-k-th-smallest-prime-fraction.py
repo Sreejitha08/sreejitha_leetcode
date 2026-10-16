@@ -1,0 +1,8 @@
+class Solution:
+    def kthSmallestPrimeFraction(self, arr: list[int], k: int) -> list[int]:
+        res=[]
+        for i in range(len(arr)):
+            for j in range(i+1,len(arr)):
+                res.append([arr[i]/arr[j],arr[i],arr[j]])
+        res.sort()
+        return [res[k-1][1],res[k-1][2]]
