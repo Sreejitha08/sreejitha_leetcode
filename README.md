@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Linked List
