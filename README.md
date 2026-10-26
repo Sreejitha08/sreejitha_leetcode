@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1254-number-of-closed-islands) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,12 +288,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1254-number-of-closed-islands) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -474,4 +478,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
