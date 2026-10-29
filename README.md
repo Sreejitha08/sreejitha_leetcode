@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2938-separate-black-and-white-balls](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Matrix
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2409-count-days-spent-together](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2938-separate-black-and-white-balls](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2938-separate-black-and-white-balls](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
