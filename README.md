@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1029-two-city-scheduling) |
 | [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
