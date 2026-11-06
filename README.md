@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2747-count-zero-request-servers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2747-count-zero-request-servers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2747-count-zero-request-servers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2747-count-zero-request-servers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
