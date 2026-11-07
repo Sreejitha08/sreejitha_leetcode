@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [4006-count-valid-prefixes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/4006-count-valid-prefixes) |
 ## Math
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [4006-count-valid-prefixes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/4006-count-valid-prefixes) |
 ## Game Theory
 |  |
 | ------- |
