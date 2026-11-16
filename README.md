@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2211-count-collisions-on-a-road](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2211-count-collisions-on-a-road](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/4020-elevator-requests-i) |
