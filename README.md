@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-count-days-spent-together](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2409-count-days-spent-together) |
+| [2928-distribute-candies-among-children-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2928-distribute-candies-among-children-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2928-distribute-candies-among-children-i](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2928-distribute-candies-among-children-i) |
 ## Trie
 |  |
 | ------- |
