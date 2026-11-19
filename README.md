@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
