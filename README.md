@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1854-maximum-population-year](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1402-reducing-dishes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
