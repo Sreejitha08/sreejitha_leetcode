@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2747-count-zero-request-servers](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2747-count-zero-request-servers) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2029-stone-game-ix) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [4006-count-valid-prefixes](https://github.com/Sreejitha08/sreejitha_leetcode/tree/master/4006-count-valid-prefixes) |
 ## Game Theory
 |  |
